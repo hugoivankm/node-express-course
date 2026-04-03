@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/hugoivankm/node-express-course#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.22.1"
   }
 }
